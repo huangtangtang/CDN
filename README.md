@@ -1,2 +1,2 @@
-# CDN
+# CDN-vue
 jsDeliver CDN
